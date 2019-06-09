@@ -8,7 +8,6 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      Weather App (Aplicacion del clima)!
         <WeatherLocation></WeatherLocation>
     </div>
   );
